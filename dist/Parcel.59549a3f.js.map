@@ -1,0 +1,1 @@
+{"mappings":"ACAA,QAAQ,GAAG,CAAC","sources":["<anon>","src/app.js"],"sourcesContent":["var $6f40c3a58f594b58$exports = {};\nconsole.log(\"hello world\");\n\n\n//# sourceMappingURL=Parcel.59549a3f.js.map\n","console.log(\"hello world\");\r\n"],"names":["console","log"],"version":3,"file":"Parcel.59549a3f.js.map"}
